@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "editorconfig.editorconfig",
+    "johnsoncodehk.volar",
+    "dbaeumer.vscode-eslint",
+    "lokalise.i18n-ally",
+    "voorjaar.windicss-intellisense"
+  ]
+}
